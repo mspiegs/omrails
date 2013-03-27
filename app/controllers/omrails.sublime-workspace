@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"do"
+			],
+			[
+				"kids",
+				"kids_bathroom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"outer",
+				"outerHeight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"texture"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"footer",
+				"footer_highlights"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bacg",
+				"background-image"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tesimonial",
+				"testimonialBox"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"lin",
+				"letter-spacing"
+			],
+			[
+				"signup",
+				"signupbox"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"norths",
+				"northstaryachservice"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"vesse",
+				"vesselmake"
+			],
+			[
+				"vess",
+				"vesselmodel"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"Quote_T",
+				"Quote_Table_Header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/mattspiegel/code/omrails/app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mattspiegel/code/omrails/app/views/devise/registrations/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mattspiegel/code/omrails/app/views/devise/registrations/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mattspiegel/code/omrails/app/views/pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages_controller.rb",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mattspiegel/code/omrails/app/views/pages/home.html.erb",
+		"/Users/mattspiegel/code/omrails/app/views/layouts/application.html.erb",
+		"/Users/mattspiegel/code/omrails/app/views/layouts/_header.html.erb",
+		"/Users/mattspiegel/code/omrails/app/views/devise/registrations/new.html.erb",
+		"/Users/mattspiegel/code/omrails/Gemfile",
+		"/Users/mattspiegel/code/omrails/app/views/devise/sessions/new.html.erb",
+		"/Users/mattspiegel/code/omrails/app/views/devise/registrations/edit.html.erb",
+		"/Users/mattspiegel/code/omrails/config/environments/production.rb",
+		"/Users/mattspiegel/code/omrails/config/environments/development.rb",
+		"/Users/mattspiegel/code/omrails/config/application.rb",
+		"/Users/mattspiegel/code/omrails/app/assets/stylesheets/style.css.scss",
+		"/Users/mattspiegel/code/omrails/app/assets/javascripts/application.js",
+		"/Users/mattspiegel/code/omrails/app/views/pages/about.html.erb",
+		"/Users/mattspiegel/code/omrails/app/views/layouts/_footer.html.erb",
+		"/Users/mattspiegel/code/omrails/app/controllers/pages_controller.rb",
+		"/Users/mattspiegel/code/omrails/config/routes.rb",
+		"/Users/mattspiegel/code/omrails/.gemrc",
+		"/Users/mattspiegel/.gemrc",
+		"/etc/rvmrc",
+		"/Users/mattspiegel/Desktop/NSY/mail.php",
+		"/Users/mattspiegel/Desktop/NSY/Request_A_Quote.php",
+		"/Users/mattspiegel/kid_friendly/app/views/places/_form.html.erb",
+		"/Users/mattspiegel/kid_friendly/app/helpers/places_helper.rb",
+		"/Users/mattspiegel/kid_friendly/app/views/places/show.html.erb",
+		"/Users/mattspiegel/kid_friendly/app/models/place.rb",
+		"/Users/mattspiegel/kid_friendly/app/assets/stylesheets/application.css",
+		"/Users/mattspiegel/kid_friendly/app/controllers/places_controller.rb",
+		"/Users/mattspiegel/kid_friendly/app/views/places/index.html.erb",
+		"/Library/WebServer/Documents/NorthStar/Request_A_Quote.php",
+		"/Library/WebServer/Documents/NorthStar/mail.php",
+		"/Users/mattspiegel/Desktop/Sites copy/MyCase_Landing/MyCase_landing.html",
+		"/Users/mattspiegel/Desktop/Sites copy/MyCase_Landing/CaseMgmt_Landing.html",
+		"/Users/mattspiegel/kid_friendly/app/assets/stylesheets/places.css.scss",
+		"/Users/mattspiegel/guestbook/app/controllers/people_controller.rb",
+		"/Users/mattspiegel/guestbook/app/views/layouts/application.html.erb",
+		"/Users/mattspiegel/guestbook/app/controllers/entries_controller.rb",
+		"/Users/mattspiegel/guestbook/app/models/entry.rb",
+		"/Users/mattspiegel/guestbook/config/routes.rb",
+		"/Users/mattspiegel/guestbook/app/views/entries/sign_in.html.erb",
+		"/Users/mattspiegel/guestbook/db/migrate/20121220045501_create_entries.rb",
+		"/Users/mattspiegel/Hello01/app/views/layouts/application.html.erb",
+		"/Users/mattspiegel/Hello01/app/views/layouts/hello.html.erb",
+		"/Users/mattspiegel/Hello01/app/assets/stylesheets/hello.css.scss",
+		"/Users/mattspiegel/Hello01/app/controllers/hello_controller.rb",
+		"/Users/mattspiegel/Hello01/app/views/hello/index.html.erb",
+		"/Users/mattspiegel/Hello01/config/routes.rb",
+		"/Users/mattspiegel/Sites/nsindex.html",
+		"/Users/mattspiegel/Sites/main1.css",
+		"/Users/mattspiegel/Desktop/Sites copy/MyCase_Landing/Landing_CSS.css",
+		"/Users/mattspiegel/Sites/main.css",
+		"/Users/mattspiegel/Sites/test.html",
+		"/Library/WebServer/Documents/NorthStar/CSS_Div_Positioning.css",
+		"/Library/WebServer/Documents/NorthStar/index.php",
+		"/Library/WebServer/Documents/NorthStar/Header.php",
+		"/Library/WebServer/Documents/NorthStar/CSS_Accordion.css",
+		"/Library/WebServer/Documents/NorthStar/webformmailer.php",
+		"/Library/WebServer/Documents/NorthStar/send_form_email.php",
+		"/Users/mattspiegel/Desktop/mail.php",
+		"/Users/mattspiegel/Desktop/send_form_email.php",
+		"/Library/WebServer/Documents/NorthStar/CSS_Carousel.css",
+		"/Users/mattspiegel/Desktop/Sites/phptest.php",
+		"/Volumes/ftp.northstaryachtservice.com/webformmailer.php",
+		"/Volumes/ftp.northstaryachtservice.com/Request_A_Quote.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"false",
+			"Billing",
+			"2",
+			"\"></",
+			"pink",
+			";\"><",
+			"><",
+			"li",
+			"Mobile",
+			"1",
+			"0.7",
+			"7",
+			"s",
+			"<img src=\"images/tasks.png\">",
+			"id=\"1\"",
+			"11",
+			"3",
+			"11px",
+			"7",
+			"-webkit-box-shadow",
+			";\n",
+			"7",
+			";\n",
+			"6",
+			"			<",
+			"15",
+			"5",
+			"	-webkit-border-radius: 6px;\n",
+			"topleft"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mattspiegel/code/omrails/app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mattspiegel/code/omrails/app/views/devise/registrations/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mattspiegel/code/omrails/app/views/devise/registrations/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mattspiegel/code/omrails/app/views/pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages_controller.rb",
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"hom",
+				"app/views/pages/home.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true
+}
